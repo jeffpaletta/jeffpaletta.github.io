@@ -113,7 +113,7 @@
               }, d.a.createElement("div", {
                 className: "icon-wrap"
               }, d.a.createElement(_, null)), d.a.createElement(
-                "h1", null, "Nicky Tesla [PORTFOLIO]"))
+                "h1", null, "Jeff Paletta --> Portfolio"))
             }
           }]), t
         }(p.Component),
